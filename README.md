@@ -18,14 +18,11 @@ This project showcases a modern layout suitable for small businesses, startups, 
 
 ## Preview
 
-![Website Preview](screenshot.png)
+![Website Preview](./assets/images/full_page_desktop.png)
+<br/><br/>
+![Website Preview](./assets/images/desktop_navbar.png)
+<br/><br/>
+![Website Preview](./assets/images/full_page_mobile.png)
+<br/><br/>
+![Website Preview](./assets/images/mobile_navbar.png)
 
-## Live Demo
-
-[Click here to view the live website](https://salim943.github.io/Simple_Business_Website/)
-
-## How to Use
-
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/salim943/Simple_Business_Website.git
